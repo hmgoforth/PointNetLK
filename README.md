@@ -1,6 +1,6 @@
-# PointNetLK: Robust & Efficient Point Cloud Registration using PointNet
+# PointNetLK: Point Cloud Registration using PointNet
 
-## [Video](https://youtu.be/W4N17CO19cQ)
+### [Video](https://youtu.be/W4N17CO19cQ)
 
 Source Code Author:
 Yasuhiro Aoki
