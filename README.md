@@ -1,4 +1,4 @@
-### PointNetLK: Robust & Efficient Point Cloud Registration using PointNet
+# PointNetLK: Robust & Efficient Point Cloud Registration using PointNet
 
 ## [Video](https://youtu.be/W4N17CO19cQ)
 
