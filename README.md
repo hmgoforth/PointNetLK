@@ -26,3 +26,22 @@ Yasuhiro Aoki
 * ex1_test_pointlk.sh: test PointNet-LK
 * ex1_test_icp.sh: test ICP
 * ex1_result_stat.sh: compute mean errors of above tests
+
+### Citation
+
+'''
+@ARTICLE{2019arXiv190305711A,
+       author = {{Aoki}, Yasuhiro and {Goforth}, Hunter and
+         {Srivatsan}, Rangaprasad Arun and {Lucey}, Simon},
+        title = "{PointNetLK: Robust \&amp; Efficient Point Cloud Registration using PointNet}",
+      journal = {arXiv e-prints},
+     keywords = {Computer Science - Computer Vision and Pattern Recognition},
+         year = "2019",
+        month = "Mar",
+          eid = {arXiv:1903.05711},
+        pages = {arXiv:1903.05711},
+archivePrefix = {arXiv},
+       eprint = {1903.05711},
+ primaryClass = {cs.CV}
+}
+'''
