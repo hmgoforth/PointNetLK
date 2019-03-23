@@ -38,8 +38,6 @@ Yasuhiro Aoki
      keywords = {Computer Science - Computer Vision and Pattern Recognition},
          year = "2019",
         month = "Mar",
-          eid = {arXiv:1903.05711},
-        pages = {arXiv:1903.05711},
 archivePrefix = {arXiv},
        eprint = {1903.05711},
  primaryClass = {cs.CV}
