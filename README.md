@@ -29,7 +29,7 @@ Yasuhiro Aoki
 
 ### Citation
 
-'''
+```
 @ARTICLE{2019arXiv190305711A,
        author = {{Aoki}, Yasuhiro and {Goforth}, Hunter and
          {Srivatsan}, Rangaprasad Arun and {Lucey}, Simon},
@@ -44,4 +44,4 @@ archivePrefix = {arXiv},
        eprint = {1903.05711},
  primaryClass = {cs.CV}
 }
-'''
+```
