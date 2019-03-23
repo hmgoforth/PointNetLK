@@ -30,7 +30,7 @@ Yasuhiro Aoki
 ### Citation
 
 ```
-@ARTICLE{2019arXiv190305711A,
+@ARTICLE{yaoki2019pointnetlk,
        author = {{Aoki}, Yasuhiro and {Goforth}, Hunter and
          {Srivatsan}, Rangaprasad Arun and {Lucey}, Simon},
         title = "{PointNetLK: Robust \&amp; Efficient Point Cloud Registration using PointNet}",
