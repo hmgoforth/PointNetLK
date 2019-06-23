@@ -30,16 +30,11 @@ Yasuhiro Aoki
 ### Citation
 
 ```
-@ARTICLE{yaoki2019pointnetlk,
-       author = {{Aoki}, Yasuhiro and {Goforth}, Hunter and
-         {Srivatsan}, Rangaprasad Arun and {Lucey}, Simon},
-        title = "{PointNetLK: Robust \&amp; Efficient Point Cloud Registration using PointNet}",
-      journal = {arXiv e-prints},
-     keywords = {Computer Science - Computer Vision and Pattern Recognition},
-         year = "2019",
-        month = "Mar",
-archivePrefix = {arXiv},
-       eprint = {1903.05711},
- primaryClass = {cs.CV}
+@InProceedings{yaoki2019pointnetlk,
+       author = {Aoki, Yasuhiro and Goforth, Hunter and Arun Srivatsan, Rangaprasad and Lucey, Simon},
+       title = {PointNetLK: Robust & Efficient Point Cloud Registration Using PointNet},
+       booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+       month = {June},
+       year = {2019}
 }
 ```
